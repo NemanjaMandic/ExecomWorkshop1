@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_size">50dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="large_fab_margin">16dp</dimen>
+</resources>

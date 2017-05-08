@@ -6,6 +6,15 @@
     android:layout_height="match_parent"
     tools:context="com.example.nemus.execomworkshop1.MainActivity">
 
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/recycler_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
 
-
+<android.support.design.widget.FloatingActionButton
+    android:id="@+id/fab"
+    style="style/fabStyle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/ic_add_black_24dp"/>
 </RelativeLayout>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ExecomWorkshop1</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="thumbnail_url">Thumbnail url</string>
+
 </resources>
